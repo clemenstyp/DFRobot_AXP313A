@@ -13,7 +13,7 @@
 #define DFROBOT_AXP313A_H
 
 #include "Arduino.h"
-#include "Wire.h"
+#include <Wire.h>
 
 class DFRobot_AXP313A{
 public:
